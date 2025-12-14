@@ -3,7 +3,8 @@
 I'm an aspiring software developer with a passion for creating innovative solutions and building exceptional digital experiences.
 - 🎓 Recently finished my **Computer Systems Technology** diploma at the British Columbia Institute of Technology.
 - 💪 Currently working on side projects and grinding leet code.
-- 📖 Interested in learning more about web applications made with **Python**.
+- ✏️ Interested in learning more about web applications made with **Python**.
+- 📖 Check out my [portfolio](https://dleecode.com/)!
 - ☕ Want to connect? Feel free to reach out on [Linkedin](https://www.linkedin.com/in/daniel-lee-871b58370/) or by [Email](mailto:dancheuklee@gmail.com).
 
 ## 🧠 Core Languages
